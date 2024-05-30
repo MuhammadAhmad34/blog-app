@@ -1,0 +1,13 @@
+=> 
+[[32m#<Post:0x00007b18d64e4e30[0m
+  id: [34m[1m1[0m,
+  title: [36m[1mnil[0m,
+  body: [36m[1mnil[0m,
+  created_at: Thu, 30 May 2024 09:52:02.106991000 UTC +00:00,
+  updated_at: Thu, 30 May 2024 09:52:02.106991000 UTC +00:00[32m>[0m,
+ [32m#<Post:0x00007b18d64e4cc8[0m
+  id: [34m[1m2[0m,
+  title: [31m[1m"[0m[31mHello, World[0m[31m[1m"[0m,
+  body: [31m[1m"[0m[31mThis is my first Post[0m[31m[1m"[0m,
+  created_at: Thu, 30 May 2024 09:52:42.768566000 UTC +00:00,
+  updated_at: Thu, 30 May 2024 09:52:42.768566000 UTC +00:00[32m>[0m]
